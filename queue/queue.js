@@ -1,5 +1,5 @@
 function Queue() {
-  collection = [];
+  const collection = [];
 
   this.print = () => {
     console.log(collection);
@@ -9,8 +9,8 @@ function Queue() {
     collection.push(element);
   };
 
-  this.dequeue = element => {
-    return collection.shift(element);
+  this.dequeue = () => {
+    return collection.shift();
   };
 
   this.front = () => {
