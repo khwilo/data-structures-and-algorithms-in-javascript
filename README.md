@@ -1,2 +1,3 @@
-# data-structures-and-algorithms-in-javascript
-Data Structures and Algorithms in JavaScript
+# Data Structures and Algorithms in JavaScript
+
+Learn data structures and algorithms using JavaScript
